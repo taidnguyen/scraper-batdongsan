@@ -2,3 +2,5 @@
 .python-version
 .env
 venv/
+.idea
+.idea/
